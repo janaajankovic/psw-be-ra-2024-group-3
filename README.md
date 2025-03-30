@@ -13,7 +13,7 @@ With its rich feature set, immersive storytelling, and smart promotional tools, 
 
 - **Frontend**: Angular
 
-- **Data Storage**: SQL Database
+- **Data Storage**: PostgreSQL Database
 
 ## Getting Started
 
